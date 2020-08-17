@@ -3,6 +3,7 @@ when bool is true, showing the component
 
 Demo:
 
+![bool](https://raw.githubusercontent.com/QueenieCplusplus/ReactNative_boolApp/master/demo_for_bool_is_true.png)
 
 
 # Code
